@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<math.h>
+double num1,num2,sum;
+int option;
+double Addition()
+{
+ return num1+num2;
+}
+double Subtraction()
+{
